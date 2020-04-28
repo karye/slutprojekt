@@ -1,0 +1,4 @@
+AuthName        "Bara för medlemmar"
+AuthType        Basic
+AuthUserFile    C:\github\.htpasswd
+require         valid-user
